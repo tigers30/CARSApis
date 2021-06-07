@@ -1,0 +1,14 @@
+{
+  "name": "internalapp",
+  "version": "1.0.0",
+  "description": "Internal API",
+  "author": "Swathi Dubbaka",
+  "main": "server.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

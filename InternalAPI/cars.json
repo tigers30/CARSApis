@@ -1,0 +1,46 @@
+{
+    "JHk290Xj": {
+        "id": "JHk290Xj",
+        "make": "Ford",
+        "model": "F10",
+        "pkg": "Base",
+        "color": "Silver",
+        "year": "2010",
+        "category": "Truck",
+        "mileage": 120123,
+        "price": 1999900
+    },
+    "fWl37la": {
+        "id": "fWl37la",
+        "make": "Toyota",
+        "model": "Camry",
+        "pkg": "SE",
+        "color": "White",
+        "year": "2019",
+        "category": "Sedan",
+        "mileage": 3999,
+        "price": 2899900
+    },
+    "1i3xjRllc": {
+        "id": "1i3xjRllc",
+        "make": "Toyota",
+        "model": "RAV4",
+        "pkg": "XSE",
+        "color": "Red",
+        "year": "2018",
+        "category": "SUV",
+        "mileage": 24001,
+        "price": 2275000
+    },
+    "dku43920s": {
+        "id": "dku43920s",
+        "make": "Ford",
+        "model": "Bronco",
+        "pkg": "Balands",
+        "color": "Burnt Orange",
+        "year": "2022",
+        "category": "SUV",
+        "mileage": 1,
+        "price": 4499000
+    }
+}
